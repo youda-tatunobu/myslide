@@ -13,8 +13,8 @@
 
 
 ### 終わり
--Java
--Javascript
+- Java
+- Javascript
 
 +++?code=sample.js
 
