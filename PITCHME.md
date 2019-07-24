@@ -14,7 +14,7 @@
 
 ### 終わり
 - Java
-- Javascript
+- Javascript|
 
 +++?code=sample.js
 
